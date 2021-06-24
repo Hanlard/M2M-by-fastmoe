@@ -1,0 +1,3 @@
+fairscale                        0.3.7
+fairseq                          1.0.0a0+2fd9d8a     
+fastmoe                          0.2.0
